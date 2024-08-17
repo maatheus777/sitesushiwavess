@@ -1,0 +1,102 @@
+body * {font-size: 25px;}
+
+img {position: relative;
+    left: 820px;}
+    
+    #contato { font-family: "Lexend Giga", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        border-radius: 9px;
+       padding: 7px;
+    border: solid 4px #FF4D00;
+    width: 185px;
+        height: 50px;
+        text-align: center;
+    position: relative;
+    bottom: 164px;
+    left: 250px;
+    }
+    
+    #cadastro {font-family: "Lexend Giga", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        border-radius: 9px;
+        padding: 7px;
+    border: solid 4px #FF4D00;
+    width: 185px;
+        height: 50px;
+        text-align: center;
+    position: relative;
+    bottom: 252px;
+    left: 525px;}
+    
+    #quem-somos {font-family: "Lexend Giga", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        border-radius: 9px;
+        padding: 7px;
+    border: solid 4px #FF4D00;
+    width: 300px;
+        height: 50px;
+        text-align: center;
+    position: relative;
+    bottom: 340px;
+    left: 1085px;}
+    
+    #carrinho {font-family: "Lexend Giga", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        border-radius: 9px;
+        padding: 7px;
+    border: solid 4px #FF4D00;
+    width: 185px;
+        height: 50px;
+        text-align: center;
+    position: relative;
+    bottom: 427px;
+    left: 1470px;}
+    
+    a {text-decoration: none;
+    color: black;}
+
+    #pesquisar {border-radius: 7px;
+    width: 250px;
+height: 25px;
+position: relative;
+left: 785px;
+bottom: 300px;}
+
+#prd {width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: #FF4D00;
+margin: 0;
+width: 100%;
+height: 250px;
+gap: 50px;
+position: relative;
+bottom: 200px;}
+
+img {background-color: white;
+border-radius: 10px;}
+
+
+.prds {position: relative;
+top: 20px;
+right: 400px;}
+
+#cardapio {
+    font-family: "Lexend Giga", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;border: solid 2px #FF4D00;
+padding: 17px;
+border-radius: 7px;
+color: #FF4D00;
+position: relative;
+left: 800px;
+bottom: 100px;}

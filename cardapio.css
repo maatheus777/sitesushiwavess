@@ -1,0 +1,63 @@
+body * {font-size: 14px;
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;}
+
+    #busca {border-radius: 7px;
+    position: relative;
+left: 550px;
+width: 325px;
+height: 35px;
+bottom: 150px;}
+
+a {text-decoration: none;
+color: black;}
+
+#home {font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 9px;
+    padding: 7px;
+border: solid 4px #FF4D00;
+width: 100px;
+    height: 25px;
+    text-align: center;
+position: relative;
+bottom: 197px;
+left: 1400px;}
+
+#carrinho {font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 9px;
+    padding: 7px;
+border: solid 4px #FF4D00;
+width: 145px;
+    height: 25px;
+    text-align: center;
+position: relative;
+bottom: 251px;
+left: 1600px;}
+
+#grid {display: grid;
+grid-template-columns: 300px 300px 300px 300px;
+grid-template-rows: 200px 200px;
+gap: 100px;
+position: relative;
+left: 225px;
+bottom: 75px;}
+
+b {position: relative;
+top: 50px;
+left: 815px;}
+
+h2 {font-size: 20px;
+position: relative;
+left: 50px;}
+
+.carrinho {position: relative;
+left: 180px;
+bottom: 40px;}

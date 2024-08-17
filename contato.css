@@ -1,0 +1,54 @@
+body * {font-size: 25px;
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;}
+
+#contate {
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 50px;
+    color: #FF4D00;
+    position: relative;
+    left: 750px;
+    bottom: 275px;
+    width: 500px;
+  }
+
+  input {border-radius: 7px;
+border: solid 2px #FF4D00;
+width: 250px;
+height: 25px;}
+
+#assunto {height: 150px;
+position: relative;
+left: 125px;
+bottom: 20px;}
+
+#conjunto {position: relative;
+left: 700px;
+bottom: 225px;}
+
+
+#nome {position: relative;
+left: 10px;}
+
+#msg {position: relative;
+right: 27px;}
+
+a {text-decoration: none;
+color: #FF4D00;
+border: solid 2px #FF4D00;
+border-radius: 5px;
+padding: 7px;
+}
+
+#envio {position: relative;
+left: 870px;
+bottom: 100px;}
+
+#voltar {position: relative;
+left: 1500px;
+top: 150px;}
